@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "Fabricación de Antenas con Impresión 3D",
+    "nombre": "Francisco Pizarro",
+    "cargo": "",
+    "Otros Cargos": "",
+    "LI": "Electromagnetismo, Telecomunicaciones, Propagación, Antenas, Impresión 3D",
+    "Proyectos Finalizados": "FONDEF Idea I+D (Precompetitivo) - ID22I10041 (Finalizado)",
+    "Proyectos Vigentes": "FONDEF Idea I+D (Precompetitivo) - ID24I10087 (Adjudicado)",
+    "Pregrado": "Ingeniería Civil Electrónica",
+    "Postgrado": "Doctorado en Ciencias de la Computación",
+    "Correo": "francisco.pizarro.t@pucv.cl",
+    "fono": "+56 32 2273687",
+    "Apoyos FIN": "Scouting",
+    "Ultima Actualizacion": "23/09/2024"
+  },
+  {
+    "titulo": "Sensores Inteligentes para Agricultura de Precisión",
+    "nombre": "María José Herrera",
+    "cargo": "Investigadora Principal",
+    "Otros Cargos": "Coordinadora de Proyectos",
+    "LI": "Sensores, IoT, Agricultura, Energía Renovable",
+    "Proyectos Finalizados": "Proyecto Interno DI-ING2022-21 (Finalizado)",
+    "Proyectos Vigentes": "FONDECYT Regular - 1223456 (En ejecución)",
+    "Pregrado": "Ingeniería Electrónica",
+    "Postgrado": "Magíster en Tecnologías de Información",
+    "Correo": "maria.herrera@pucv.cl",
+    "fono": "+56 32 2273699",
+    "Apoyos FIN": "Mentoría",
+    "Ultima Actualizacion": "10/01/2025"
+  },
+  {
+    "titulo": "Sistemas Embebidos para Aplicaciones Biomédicas",
+    "nombre": "Carlos Mena",
+    "cargo": "Profesor Asistente",
+    "Otros Cargos": "",
+    "LI": "Sistemas embebidos, Bioingeniería, Señales biomédicas, Wearables",
+    "Proyectos Finalizados": "Proyecto CORFO Innova BIO2020-104 (Finalizado)",
+    "Proyectos Vigentes": "Proyecto PUCV Interfacultades BIO-SYS2024 (Activo)",
+    "Pregrado": "Ingeniería Civil Biomédica",
+    "Postgrado": "Doctorado en Ingeniería Electrónica",
+    "Correo": "carlos.mena@pucv.cl",
+    "fono": "+56 32 2273655",
+    "Apoyos FIN": "Red de Apoyo Tecnológico",
+    "Ultima Actualizacion": "15/03/2025"
+  },
+  {
+    "titulo": "Automatización y Robótica Educativa",
+    "nombre": "Valentina Ruiz",
+    "cargo": "Docente Investigadora",
+    "Otros Cargos": "Encargada de Vinculación Escolar",
+    "LI": "Robótica, Educación STEM, Automatización, Didáctica tecnológica",
+    "Proyectos Finalizados": "Proyecto FIC Regional ROB-STEM-2023 (Finalizado)",
+    "Proyectos Vigentes": "FONDEF IDeA - ID25I10102 (Adjudicado)",
+    "Pregrado": "Ingeniería Civil Eléctrica",
+    "Postgrado": "Magíster en Educación Tecnológica",
+    "Correo": "valentina.ruiz@pucv.cl",
+    "fono": "+56 32 2273705",
+    "Apoyos FIN": "Transferencia Educativa",
+    "Ultima Actualizacion": "08/04/2025"
+  }
+]
